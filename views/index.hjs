@@ -26,7 +26,7 @@
 			<div class="row header header-blue">
 				<div class="col-md-12">
 					<h2>What We've Made</h2>
-					<p>We've built and maintained custom content management systems, e-commerce tools, online directories and more. We are also active in the open source community and contribute to a number of existing projects.</p>
+					<p>We've built and maintained custom content management systems, e-commerce tools, online directories, calendars and more. We are also active in the open source community and contribute to a number of existing projects.</p>
 				</div>
 				<div class="col-md-6 made-button">
 					<a href="art"><i class="fa fa-lg fa-play-circle"></i> Art</a>

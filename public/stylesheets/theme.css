@@ -409,7 +409,7 @@ html.bg {
 /* Home Page Blocks */
 #home .header {
     text-align: center;
-    margin: 34%;
+    margin: 34% 10%;
 }
 #home .header h2 {
   font-weight: 400;
@@ -490,7 +490,7 @@ html.bg {
 /* What */
 #what {
   position: relative;
-  height: 840px;
+  height: 1050px;
 }
 
 #what img {
