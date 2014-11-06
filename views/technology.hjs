@@ -1,4 +1,63 @@
 {{>header}}
+<div id="features">
+		<div class="container">
+			<div class="row header">
+				<div class="col-md-12">
+					<h2>Technology</h2>
+					<p>We work with the entrepreneurs, start-ups, dreamers, non-profits and wineries of Northern California. We think short and long to find a path that balances immediate needs and future goals. </p>
+				</div>
+			</div>
+			<div class="row feature">
+				<div class="col-md-6 info">
+					<h4>Arts Council Napa Valley</h4>
+					<p>
+						Whether you want to fill this paragraph with some text like I'm doing right now, this place
+						is perfect to describe some features or anything you want - React has a complete solution for you.
+					</p>
+					<div class="visit-button">
+						<a href="http://www.artscouncilnapavalley.org/"><i class="fa fa-lg fa-play-circle"></i> Visit Website</a>
+					</div>
+				</div>
+				<div class="col-md-6 image">
+					<img src="images/arts-council-napa-valley.png" class="img-responsive" alt="ACNV" />
+				</div>
+			</div>
+			<div class="divider"></div>
+			<div class="row feature backwards">
+				<div class="col-md-6 info">
+					<h4>Best of Joy</h4>
+					<p>
+						You have complete control over the look & feel of your website, we offer the best quality so you
+						take your site up and running in no time.
+					</p>
+					<p>
+						Write some text here to explain the features of your site or application, it
+						has lots of uses.
+					</p>
+					<div class="visit-button">
+						<a href="http://www.bestofjoy.com/"><i class="fa fa-lg fa-play-circle"></i> Hire The Team</a>
+					</div>
+				</div>
+				<div class="col-md-6 image">
+					<img src="images/best-of-joy.png" class="img-responsive" alt="Best of Joy" />
+				</div>
+			</div>
+			<div class="divider"></div>
+			<div class="row feature">
+				<div class="col-md-6 info">
+					<h4>Napa ARTWalk</h4>
+					<p>
+						Whether you want to fill this paragraph with some text like I'm doing right now, this place
+						is perfect to describe some features or anything you want - React has a complete solution for you.
+					</p>
+					<div class="visit-button">
+						<a href="http://www.napaartwalk.org/"><i class="fa fa-lg fa-play-circle"></i> Visit Website</a>
+					</div>
+				</div>
+				<div class="col-md-6 image">
+					<img src="images/napa-art-walk.png" class="img-responsive" alt="Napa Art Walk" />
+				</div>
+
 			</div>
 			<div class="divider"></div>
 			<div class="row feature backwards">
