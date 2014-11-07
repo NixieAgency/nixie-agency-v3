@@ -96,7 +96,7 @@
 					<p>The service is an open-source image gallery for the wine community. WinePhoto co. promotes industry commerce by providing images to wineries, small businesses and tourism agencies in the wine industry.</p>
 					<p>Tool Kit: AngularJS, Amazon S3, Amazon Route53</p>
 					<div class="visit-button">
-						<a href="http://www.winephoto.co/"><i class="fa fa-lg fa-play-circle"></i> Download Wine Photos</a>
+						<a href="http://www.winephoto.co/"><i class="fa fa-lg fa-play-circle"></i> Visit Website</a>
 					</div>
 				</div>
 				<div class="col-md-6 image">

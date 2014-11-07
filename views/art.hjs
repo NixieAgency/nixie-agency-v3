@@ -50,6 +50,7 @@
 					<img src="images/mike-grgich.jpg" class="img-responsive" alt="Mike Grgich" />
 				</div>
 			</div>
+		  <div class="divider"></div>
 			<div class="row feature backwards">
 				<div class="col-md-6 info">
 					<h4>Product Photography</h4>
@@ -60,7 +61,6 @@
 					<img src="images/wine-bottle.jpg" class="img-responsive" alt="Wine Bottle Photography" />
 				</div>
 			</div>
-			<div class="divider"></div>
 		</div>		
 	</div>
 {{>footer}}
