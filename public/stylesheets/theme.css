@@ -558,6 +558,9 @@ html.bg {
     width: 70%;
   } }
 @media (max-width: 620px) {
+  #home #hero h1.hero-text {
+    margin-top: 10%; 
+  }
   #what {
     height: 643px;
   }
@@ -565,6 +568,9 @@ html.bg {
     width: 60%;
   } }
 @media (max-width: 530px) {
+  #home #hero h1.hero-text {
+    margin-top: 20%; 
+  }
   #what {
     height: 615px;
   }
@@ -572,6 +578,9 @@ html.bg {
     width: 55%;
   } }
 @media (max-width: 450px) {
+  #home #hero h1.hero-text {
+    margin-top: 50%; 
+  }
   #what {
     height: 100%;
   }
