@@ -10,14 +10,8 @@
 			<div class="row feature backwards">
 				<div class="col-md-6 info">
 					<h4>Applied Sensory</h4>
-					<p>
-						You have complete control over the look & feel of your website, we offer the best quality so you
-						take your site up and running in no time.
-					</p>
-					<p>
-						Write some text here to explain the features of your site or application, it
-						has lots of uses.
-					</p>
+					<p>Applied Sensory is a consulting company which provides product evaluation for the wine, beer and olive oil industry.</p>
+					<p>Applied Sensory was contributing to a publication on olive oil production. We were hired to create a map which illustrates the olive oil growing regions of California. The illustration was done to scale and in a style which matched the academic feel of the publication.</p>
 				</div>
 				<div class="col-md-6 image">
 					<img src="images/california-map.jpg" class="img-responsive" alt="California Olive Oil Map" />
@@ -27,62 +21,46 @@
 			<div class="row feature">
 				<div class="col-md-6 info">
 					<h4>Crush Challenge</h4>
-					<p>
-						You have complete control over the look & feel of your website, we offer the best quality so you
-						take your site up and running in no time.
-					</p>
-					<p>
-						Write some text here to explain the features of your site or application, it
-						has lots of uses.
-					</p>
+					<p>Produced in partnership between Amgen, Dempsey Center for Cancer Hope & Healing and ZD Wines. The Crush Challenge is a charity bicycle ride in the heart of Napa Valley.</p>
+					<p>Crush Challenge needed a way to photograph the event and publish images online in real time. We devised a system which allowed our photographers to upload content to a public folder straight from camera. From there event promoters distributed our work to a variety of social media channels.</p>
 				</div>
 				<div class="col-md-6 image">
 					<img src="images/partick-dempsey.jpg" class="img-responsive" alt="Patrick Dempsey Crush Challenge" />
 				</div>
 			</div>
-			<div class="divider"></div>		
+			<div class="divider"></div>	
 			<div class="row feature backwards">
 				<div class="col-md-6 info">
+					<h4>Graphic Design</h4>
+					<p>Graphic design is the methodology of visual communication, and problem-solving through the use of type, space and image.</p>
+					<p>Good design can make information easy to process which ultimately leaves your audience with a more memorable and impact experience. Design can also help shift your image which allows you to capture new market areas and find new consumers.</p>
+				</div>
+				<div class="col-md-6 image">
+					<img src="images/zd-wines-designs.jpg" class="img-responsive" alt="ZD Wines Graphic Design Marketing Collateral" />
+				</div>
+			</div>
+			<div class="divider"></div>		
+			<div class="row feature">
+				<div class="col-md-6 info">
 					<h4>Grgich Hills</h4>
-					<p>
-						Whether you want to fill this paragraph with some text like I'm doing right now, this place
-						is perfect to describe some features or anything you want - React has a complete solution for you.
-					</p>
+					<p>Grigich Hills is a winery in the Rutherford region of Napa Valley. Notable founder Mike Grigich is the winemaker behind the 1973 Chateau Montelena Chardonnay that bested several Burgundy wines in the Judgement of Paris.</p>
+					<p>Grigich Hills hired us to start an image database for their chocolate festival. These images would be used to promote future festivals both online and in print material.</p>
 				</div>
 				<div class="col-md-6 image">
 					<img src="images/mike-grgich.jpg" class="img-responsive" alt="Mike Grgich" />
 				</div>
 			</div>
-			<div class="divider"></div>	
-			<div class="row feature">
+			<div class="row feature backwards">
 				<div class="col-md-6 info">
 					<h4>Product Photography</h4>
-					<p>
-						Whether you want to fill this paragraph with some text like I'm doing right now, this place
-						is perfect to describe some features or anything you want - React has a complete solution for you.
-					</p>
+					<p>In a public post Airbnb reported that professionally photographed properties are 2.5 times more likely to be booked than those that are not. Simply put, the better your images look the more credibility and sales you will generate.</p>
+					<p>We often help our clients with visual problems such as product photography. This includes post production editing and web optimization. Optimization means your images are compressed to a small file size but still maintain a high quality look.</p>
 				</div>
 				<div class="col-md-6 image">
 					<img src="images/wine-bottle.jpg" class="img-responsive" alt="Wine Bottle Photography" />
 				</div>
 			</div>
 			<div class="divider"></div>
-			<div class="row feature backwards">
-				<div class="col-md-6 info">
-					<h4>ZD Wines</h4>
-					<p>
-						You have complete control over the look & feel of your website, we offer the best quality so you
-						take your site up and running in no time.
-					</p>
-					<p>
-						Write some text here to explain the features of your site or application, it
-						has lots of uses.
-					</p>
-				</div>
-				<div class="col-md-6 image">
-					<img src="images/zd-wines-designs.jpg" class="img-responsive" alt="ZD Wines Graphic Design Marketing Collateral" />
-				</div>
-			</div>			
 		</div>		
 	</div>
 {{>footer}}

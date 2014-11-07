@@ -10,11 +10,11 @@
 			<div class="row feature">
 				<div class="col-md-6 info">
 					<h4>Arts Council Napa Valley</h4>
-					<p>
-						Whether you want to fill this paragraph with some text like I'm doing right now, this place
-						is perfect to describe some features or anything you want - React has a complete solution for you.
-					</p>
-					<div class="visit-button">
+					<p>Arts Council Napa Valley (ACNV) is an arts non-profit which unites, supports, and advances the arts and cultural community of Napa Valley.</p>
+			        <p>ACNV hired us to rebuild their web infrastructure from the ground up. We worked closely with ACNV in defining visual aesthetics, articulating interface preferences and prioritizing features. We were entirely responsible for writing code, implementing tests, configuring environments and launching the final product.</p>
+			        <p>We used open source tools and choose solutions with good documentation and strong community support. We continue to maintain ACNV's web product and plan on expanding it's capabilities in the near future.</p>
+			        <p>Tool Kit: Aws-skd, Erb, Bootstrap, Heroku, Rails Admin, Rspec, Ruby on Rails, Newrelic_rpm, Sqlite3, ect.</p>
+          <div class="visit-button">
 						<a href="http://www.artscouncilnapavalley.org/"><i class="fa fa-lg fa-play-circle"></i> Visit Website</a>
 					</div>
 				</div>
@@ -23,6 +23,7 @@
 				</div>
 			</div>
 			<div class="divider"></div>
+      <!-- ** Fix issues with bestofjoy.com before adding **
 			<div class="row feature backwards">
 				<div class="col-md-6 info">
 					<h4>Best of Joy</h4>
@@ -43,13 +44,13 @@
 				</div>
 			</div>
 			<div class="divider"></div>
-			<div class="row feature">
+      -->
+			<div class="row feature backwards">
 				<div class="col-md-6 info">
 					<h4>Napa ARTWalk</h4>
-					<p>
-						Whether you want to fill this paragraph with some text like I'm doing right now, this place
-						is perfect to describe some features or anything you want - React has a complete solution for you.
-					</p>
+					<p>The Napa ARTwalk is a city sponsored art walk which supports the creation of original, high-quality and collaborative sculpture from regional artists.</p>
+					<p>At the time of construction speed was a critical factor in implementing this site. To address this we skipped the design phase and used a minimalistic set of tools. We managed image compression, code customizations and launch of the final site. As a result, the finished product took less than a week to complete.</p>
+					<p>Tool Kit: Bootstrap, Express, Heroku, Hogan, NodeJS, ect.</p>
 					<div class="visit-button">
 						<a href="http://www.napaartwalk.org/"><i class="fa fa-lg fa-play-circle"></i> Visit Website</a>
 					</div>
@@ -57,19 +58,13 @@
 				<div class="col-md-6 image">
 					<img src="images/napa-art-walk.png" class="img-responsive" alt="Napa Art Walk" />
 				</div>
-
 			</div>
 			<div class="divider"></div>
-			<div class="row feature backwards">
+			<div class="row feature">
 				<div class="col-md-6 info">
 					<h4>Nigel Bates</h4>
-					<p>
-						You have complete control over the look & feel of your website, we offer the best quality so you
-						take your site up and running in no time.
-					</p>
-					<p>
-						Write some text here to explain the features of your site or application, it
-						has lots of uses.
+					<p>Nigel Bates is a local business owner and musician in the Napa Valley community.</p> 
+					<p>Nigel approached us with a personal project promoting his work as a drummer. We worked with Nigel to create a one page solution with simple functionality for adding tour dates and editing featured songs.
 					</p>
 					<div class="visit-button">
 						<a href="http://www.nigelbates.com/"><i class="fa fa-lg fa-play-circle"></i> Visit Website</a>
@@ -80,13 +75,11 @@
 				</div>
 			</div>
 			<div class="divider"></div>
-			<div class="row feature">
+			<div class="row feature backwards">
 				<div class="col-md-6 info">
-					<h4>Walter Everette</h4>
-					<p>
-						Whether you want to fill this paragraph with some text like I'm doing right now, this place
-						is perfect to describe some features or anything you want - React has a complete solution for you.
-					</p>
+					<h4>Walter H. Everette</h4>
+					<p>Walter H. Everett was one of the most popular and well-regarded American illustrators of the early twentieth-century.</p> 
+					<p>The Everette family commissioned us to co-create a website in honor of Walter's legacy. We sketched the initial prototypes and created the information hierarchy. We used SquareSpace for this project as it allows family members to get involved in this fun process!</p>
 					<div class="visit-button">
 						<a href="http://www.walterheverett.com/"><i class="fa fa-lg fa-play-circle"></i> Visit Website</a>
 					</div>
@@ -96,17 +89,12 @@
 				</div>
 			</div>
 			<div class="divider"></div>
-			<div class="row feature backwards">
+			<div class="row feature">
 				<div class="col-md-6 info">
 					<h4>WinePhoto co.</h4>
-					<p>
-						You have complete control over the look & feel of your website, we offer the best quality so you
-						take your site up and running in no time.
-					</p>
-					<p>
-						Write some text here to explain the features of your site or application, it
-						has lots of uses.
-					</p>
+					<p>Created by one of our founders, WinePhoto co. addresses the lack of tasteful stock images in the wine making industry.</p>
+					<p>The service is an open-source image gallery for the wine community. WinePhoto co. promotes industry commerce by providing images to wineries, small businesses and tourism agencies in the wine industry.</p>
+					<p>Tool Kit: AngularJS, Amazon S3, Amazon Route53</p>
 					<div class="visit-button">
 						<a href="http://www.winephoto.co/"><i class="fa fa-lg fa-play-circle"></i> Download Wine Photos</a>
 					</div>

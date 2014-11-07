@@ -250,7 +250,7 @@ a:focus, button:focus {
         text-align: center; } }
   #home #hero .sub-text {
     -webkit-font-smoothing: antialiased;
-    margin-top: 40%;
+    margin-top: 35%;
     margin-bottom: 10%;
     font-family: "Lato", "Helvetica Neue", Arial;
     text-align: center;
@@ -515,13 +515,16 @@ html.bg {
   letter-spacing: 0.1em;
   text-transform: uppercase;
   text-decoration: none
-  }
+}
 #home #features a:hover, {
   text-decoration: none;
 }
 #home #features .info {
   margin-bottom: 30px
-  }
+}
+.visit-button {
+  margin-top: 20px;
+}
 
 /* Contact */
 #home #contact .header h2 {  
@@ -531,13 +534,13 @@ html.bg {
   font-weight: 300;
   font-size: 17px;
   color: #757575;
-  }
+}
 #home #contact a {
   color: #757575;
   font-size: 17px;
   font-weight: 300;
   text-decoration: none
-  }
+}
 #home #contact a:hover, {
   text-decoration: none;
 }
@@ -546,7 +549,6 @@ html.bg {
 @media (max-width: 990px) {
   .visit-button {
   text-align: center;
-  margin-top: 20px;
   } }
 @media (max-width: 767px) {
   #what {
