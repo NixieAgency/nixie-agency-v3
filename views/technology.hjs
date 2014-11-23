@@ -19,7 +19,7 @@
 					</div>
 				</div>
 				<div class="col-md-6 image">
-					<img src="images/arts-council-napa-valley.png" class="img-responsive" alt="ACNV" />
+					<img alt="Arts Council Napa Valley website" src="images/arts-council-napa-valley.png" class="img-responsive" alt="ACNV" />
 				</div>
 			</div>
 			<div class="divider"></div>
@@ -34,7 +34,7 @@
 					</div>
 				</div>
 				<div class="col-md-6 image">
-					<img src="images/best-of-joy.png" class="img-responsive" alt="Best of Joy" />
+					<img alt="Best of Joy website" src="images/best-of-joy.png" class="img-responsive" alt="Best of Joy" />
 				</div>
 			</div>
 			<div class="divider"></div>
@@ -49,7 +49,7 @@
 					</div>
 				</div>
 				<div class="col-md-6 image">
-					<img src="images/napa-art-walk.png" class="img-responsive" alt="Napa Art Walk" />
+					<img alt="Napa ARTwalk website" src="images/napa-art-walk.png" class="img-responsive" alt="Napa Art Walk" />
 				</div>
 			</div>
 			<div class="divider"></div>
@@ -64,7 +64,7 @@
 					</div>
 				</div>
 				<div class="col-md-6 image">
-					<img src="images/nigel-bates.png" class="img-responsive" alt="Nigel Bates" />
+					<img alt="Nigel Bates website" src="images/nigel-bates.png" class="img-responsive" alt="Nigel Bates" />
 				</div>
 			</div>
 			<div class="divider"></div>
@@ -78,7 +78,7 @@
 					</div>
 				</div>
 				<div class="col-md-6 image">
-					<img src="images/walter-everette.png" class="img-responsive" alt="Walter H. Everette" />
+					<img alt="Walter Everette website" src="images/walter-everette.png" class="img-responsive" alt="Walter H. Everette" />
 				</div>
 			</div>
 			<div class="divider"></div>
@@ -93,7 +93,7 @@
 					</div>
 				</div>
 				<div class="col-md-6 image">
-					<img src="images/wine-photo.png" class="img-responsive" alt="Wine Photo" />
+					<img alt="WinePhoto co. website" src="images/wine-photo.png" class="img-responsive" alt="Wine Photo" />
 				</div>
 			</div>
 		</div>		

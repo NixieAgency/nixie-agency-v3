@@ -5,6 +5,7 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge" />	
 	<title>Nixie</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="Our clients hire us to design, build and consult on web sites and web applications. We work with next gen technology to build fast, mobile-ready, scalable, and beautiful web products that fit a wide range of applications.">
 
 	<!-- stylesheets -->
 	<link rel="stylesheet" type="text/css" href="stylesheets/bootstrap.min.css">

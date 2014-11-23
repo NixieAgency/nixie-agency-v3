@@ -26,7 +26,7 @@
 			<div class="row header header-blue">
 				<div class="col-md-12">
 					<h2>What We've Made</h2>
-					<p>We've built and maintained custom content management systems, e-commerce tools, online directories, calendars and more. We are also active in the open source community and contribute to a number of existing projects.</p>
+					<p>We've built and maintained custom content management systems, e-commerce tools, online directories, calendars and more. We are also active in the open source community and contribute to a number of existing software projects.</p>
 				</div>
 				<div class="col-md-6 made-button">
 					<a href="art"><i class="fa fa-lg fa-play-circle"></i> Art</a>
@@ -36,7 +36,7 @@
 				</div>
 			</div>
 		</div>
-		<img src="images/linux-terminal.png" alt="Linux Terminal" />
+		<img alt="Linux Terminal" src="images/linux-terminal.png" alt="Linux Terminal" />
 	</div>
 
 	<div id="tools" class="block-img">
@@ -44,7 +44,7 @@
 			<div class="row header header-img">
 				<div class="col-md-12">
 					<h2>Our Tool Kit</h2>
-					<p>We use popular tools such as NodeJs, AngularJS, Express, MongoDB, Ruby on Rails, Sinatra, ect. and tailor them to fit your situation.</p>
+					<p>We use popular web development tools such as NodeJs, AngularJS, Express, MongoDB, Ruby on Rails, Sinatra, ect. and tailor them to fit your situation.</p>
 				</div>
 			</div>
 		</div>		
@@ -56,11 +56,11 @@
 				<div class="col-md-12">
 					<h2>Our Clients</h2>
 					<div class="logos">
-						<img src="images/logos/acnv-logo.jpg">
-						<img src="images/logos/dirosa-logo.jpg">
-						<img src="images/logos/grgich-logo.jpg">
-						<img src="images/logos/nvm-logo.jpg">
-						<img src="images/logos/zd-logo.jpg">
+						<img alt="Arts Council Napa Valley Logo" src="images/logos/acnv-logo.jpg">
+						<img alt="DiRosa Logo" src="images/logos/dirosa-logo.jpg">
+						<img alt="Grgich Hills Logo" src="images/logos/grgich-logo.jpg">
+						<img alt="Napa Valley Museum Logo" src="images/logos/nvm-logo.jpg">
+						<img alt="ZD Wines Logo" src="images/logos/zd-lalt="ZD Wines Logo" ogo.jpg">
 					</div>
 				</div>
 			</div>

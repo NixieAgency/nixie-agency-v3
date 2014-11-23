@@ -14,7 +14,7 @@
 					<p>Applied Sensory was contributing to a publication on olive oil production. We were hired to create a map which illustrates the olive oil growing regions of California. The illustration was done to scale and in a style which matched the academic feel of the publication.</p>
 				</div>
 				<div class="col-md-6 image">
-					<img src="images/california-map.jpg" class="img-responsive" alt="California Olive Oil Map" />
+					<img alt="Olive growing map of California" src="images/california-map.jpg" class="img-responsive" alt="California Olive Oil Map" />
 				</div>
 			</div>
 			<div class="divider"></div>
@@ -25,7 +25,7 @@
 					<p>Crush Challenge needed a way to photograph the event and publish images online in real time. We devised a system which allowed our photographers to upload content to a public folder straight from camera. From there event promoters distributed our work to a variety of social media channels.</p>
 				</div>
 				<div class="col-md-6 image">
-					<img src="images/partick-dempsey.jpg" class="img-responsive" alt="Patrick Dempsey Crush Challenge" />
+					<img alt="Patrick Dempsey at Napa Valley Crush Challenge" src="images/partick-dempsey.jpg" class="img-responsive" alt="Patrick Dempsey Crush Challenge" />
 				</div>
 			</div>
 			<div class="divider"></div>	
@@ -36,7 +36,7 @@
 					<p>Good design can make information easy to process which ultimately leaves your audience with a more memorable and impact experience. Design can also help shift your image which allows you to capture new market areas and find new consumers.</p>
 				</div>
 				<div class="col-md-6 image">
-					<img src="images/zd-wines-designs.jpg" class="img-responsive" alt="ZD Wines Graphic Design Marketing Collateral" />
+					<img alt="ZD Wines Abacus Winter Wine Escape" src="images/zd-wines-designs.jpg" class="img-responsive" alt="ZD Wines Graphic Design Marketing Collateral" />
 				</div>
 			</div>
 			<div class="divider"></div>		
@@ -47,7 +47,7 @@
 					<p>Grgich Hills hired us to start an image database for their chocolate festival. These images would be used to promote future festivals both online and in print material.</p>
 				</div>
 				<div class="col-md-6 image">
-					<img src="images/mike-grgich.jpg" class="img-responsive" alt="Mike Grgich" />
+					<img alt="Mike Grgich" src="images/mike-grgich.jpg" class="img-responsive" alt="Mike Grgich" />
 				</div>
 			</div>
 		  <div class="divider"></div>
@@ -58,7 +58,7 @@
 					<p>We often help our clients with visual problems such as product photography. This includes post production editing and web optimization. Optimization means your images are compressed to a small file size but still maintain a high quality look.</p>
 				</div>
 				<div class="col-md-6 image">
-					<img src="images/wine-bottle.jpg" class="img-responsive" alt="Wine Bottle Photography" />
+					<img alt="Wine bottle shot" src="images/wine-bottle.jpg" class="img-responsive" alt="Wine Bottle Photography" />
 				</div>
 			</div>
 		</div>		
