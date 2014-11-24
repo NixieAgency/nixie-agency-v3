@@ -187,7 +187,7 @@ a:focus, button:focus {
     #footer-white {
       padding-top: 0px; } }
     #footer-white .credits .col-md-12 {
-      padding-top: 20px;
+      padding-top: 14px;
       font-size: 13px;
       text-align: center;
       color: #A1AAB6; }
@@ -467,6 +467,10 @@ html.bg {
 }
 #home .block-blue .made-button {
   margin-top: 10%;
+}
+.separator {
+  margin-left: 10px;
+  margin-right: 10px;
 }
 
 /* Img Block */
