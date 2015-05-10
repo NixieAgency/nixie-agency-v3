@@ -17,7 +17,7 @@
                     components (calendar, cms, store, etc) which could grow along with the organization’s long term goals.</p>
 					<p>Tool Kit: Bootstrap, Express, Heroku, Hogan, NodeJS, AngularJS, MongoDB, AWS, Stripe, ect.</p>
 					<div class="visit-button">
-						<a href="http://www.eldoradoartscouncil.org"><i class="fa fa-lg fa-play-circle"></i> Visit Website</a>
+						<a href="http://www.eldoradoartscouncil.org" target="_blank"><i class="fa fa-lg fa-play-circle"></i> Visit Website</a>
 					</div>
 				</div>
 				<div class="col-md-6 image">
@@ -35,7 +35,7 @@
 			        <p>We used open source tools and choose solutions with good documentation and strong community support. We continue to maintain ACNV's web product and plan on expanding it's capabilities in the near future.</p>
 			        <p>Tool Kit: Aws-skd, Erb, Bootstrap, Heroku, Rails Admin, Rspec, Ruby on Rails, Newrelic_rpm, Sqlite3, ect.</p>
           <div class="visit-button">
-						<a href="http://www.artscouncilnapavalley.org/"><i class="fa fa-lg fa-play-circle"></i> Visit Website</a>
+						<a href="http://www.artscouncilnapavalley.org/" target="_blank"><i class="fa fa-lg fa-play-circle"></i> Visit Website</a>
 					</div>
 				</div>
 				<div class="col-md-6 image">
@@ -52,7 +52,7 @@
           <p>To create this site we used a simple set of tools. This allowed us to keep production cost low and roll out the final product in a short amount of time.</p>
 					<p>Tool Kit: Bootstrap, Express, Heroku, Hogan, NodeJS, ect.</p>
 					<div class="visit-button">
-						<a href="http://www.bestofjoy.com/"><i class="fa fa-lg fa-play-circle"></i> Hire The Team</a>
+						<a href="http://www.bestofjoy.com/" target="_blank"><i class="fa fa-lg fa-play-circle"></i> Hire The Team</a>
 					</div>
 				</div>
 				<div class="col-md-6 image">
@@ -69,7 +69,7 @@
 					<p>At the time of construction speed was a critical factor in implementing this site. To address this we skipped the design phase and used a minimalistic set of tools. We managed image compression, code customizations and launch of the final site. As a result, the finished product took less than a week to complete.</p>
 					<p>Tool Kit: Bootstrap, Express, Heroku, Hogan, NodeJS, ect.</p>
 					<div class="visit-button">
-						<a href="http://www.napaartwalk.org/"><i class="fa fa-lg fa-play-circle"></i> Visit Website</a>
+						<a href="http://www.napaartwalk.org/" target="_blank"><i class="fa fa-lg fa-play-circle"></i> Visit Website</a>
 					</div>
 				</div>
 				<div class="col-md-6 image">
@@ -86,7 +86,7 @@
 					<p>Nigel approached us with a personal project promoting his work as a drummer. We worked with Nigel to create a one page solution with simple functionality for adding tour dates and editing featured songs.
 					</p>
 					<div class="visit-button">
-						<a href="http://www.nigelbates.com/"><i class="fa fa-lg fa-play-circle"></i> Visit Website</a>
+						<a href="http://www.nigelbates.com/" target="_blank"><i class="fa fa-lg fa-play-circle"></i> Visit Website</a>
 					</div>
 				</div>
 				<div class="col-md-6 image">
@@ -102,7 +102,7 @@
 					<p>Walter H. Everett was one of the most popular and well-regarded American illustrators of the early twentieth-century.</p> 
 					<p>The Everette family commissioned us to co-create a website in honor of Walter's legacy. We sketched the initial prototypes and created the information hierarchy. We used SquareSpace for this project as it allows family members to get involved in this fun process!</p>
 					<div class="visit-button">
-						<a href="http://www.walterheverett.com/"><i class="fa fa-lg fa-play-circle"></i> Visit Website</a>
+						<a href="http://www.walterheverett.com/" target="_blank"><i class="fa fa-lg fa-play-circle"></i> Visit Website</a>
 					</div>
 				</div>
 				<div class="col-md-6 image">
@@ -119,7 +119,7 @@
 					<p>The service is an open-source image gallery for the wine community. WinePhoto co. promotes industry commerce by providing images to wineries, small businesses and tourism agencies in the wine industry.</p>
 					<p>Tool Kit: AngularJS, Amazon S3, Amazon Route53</p>
 					<div class="visit-button">
-						<a href="http://www.winephoto.co/"><i class="fa fa-lg fa-play-circle"></i> Get Wine Photos</a>
+						<a href="http://www.winephoto.co/" target="_blank"><i class="fa fa-lg fa-play-circle"></i> Get Wine Photos</a>
 					</div>
 				</div>
 				<div class="col-md-6 image">
