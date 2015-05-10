@@ -7,6 +7,26 @@
 					<p>We work with the entrepreneurs, start-ups, dreamers, non-profits and wineries of Northern California. We think short and long to find a path that balances immediate needs and future goals. </p>
 				</div>
 			</div>
+
+			<div class="row feature backwards">
+				<div class="col-md-6 info">
+					<h4>El Dorado Arts Council</h4>
+					<p>El Dorado Arts Council (EDAC) is an arts non-profit bringing more arts, in more places, to more people.</p>
+                    <p>EDAC contracted us to rebuild their website from scratch. The goal of this project was to create
+                    a minimal starting point from which to expand. To do this we focused on building small modular
+                    components (calendar, cms, store, etc) which could grow along with the organization’s long term goals.</p>
+					<p>Tool Kit: Bootstrap, Express, Heroku, Hogan, NodeJS, AngularJS, MongoDB, AWS, Stripe, ect.</p>
+					<div class="visit-button">
+						<a href="http://www.eldoradoartscouncil.org"><i class="fa fa-lg fa-play-circle"></i> Visit Website</a>
+					</div>
+				</div>
+				<div class="col-md-6 image">
+					<img alt="El Dorado Arts Council website" src="images/el-dorado-arts-council.png" class="img-responsive"/>
+				</div>
+			</div>
+
+			<div class="divider"></div>
+
 			<div class="row feature">
 				<div class="col-md-6 info">
 					<h4>Arts Council Napa Valley</h4>
@@ -19,10 +39,12 @@
 					</div>
 				</div>
 				<div class="col-md-6 image">
-					<img alt="Arts Council Napa Valley website" src="images/arts-council-napa-valley.png" class="img-responsive" alt="ACNV" />
+					<img alt="Arts Council Napa Valley website" src="images/arts-council-napa-valley.png" class="img-responsive"/>
 				</div>
 			</div>
+
 			<div class="divider"></div>
+
 			<div class="row feature backwards">
 				<div class="col-md-6 info">
 					<h4>Best of Joy</h4>
@@ -34,10 +56,12 @@
 					</div>
 				</div>
 				<div class="col-md-6 image">
-					<img alt="Best of Joy website" src="images/best-of-joy.png" class="img-responsive" alt="Best of Joy" />
+					<img alt="Best of Joy website" src="images/best-of-joy.png" class="img-responsive"/>
 				</div>
 			</div>
+
 			<div class="divider"></div>
+
 			<div class="row feature">
 				<div class="col-md-6 info">
 					<h4>Napa ARTWalk</h4>
@@ -49,10 +73,12 @@
 					</div>
 				</div>
 				<div class="col-md-6 image">
-					<img alt="Napa ARTwalk website" src="images/napa-art-walk.png" class="img-responsive" alt="Napa Art Walk" />
+					<img alt="Napa ARTwalk website" src="images/napa-art-walk.png" class="img-responsive"/>
 				</div>
 			</div>
+
 			<div class="divider"></div>
+
 			<div class="row feature backwards">
 				<div class="col-md-6 info">
 					<h4>Nigel Bates</h4>
@@ -64,10 +90,12 @@
 					</div>
 				</div>
 				<div class="col-md-6 image">
-					<img alt="Nigel Bates website" src="images/nigel-bates.png" class="img-responsive" alt="Nigel Bates" />
+					<img alt="Nigel Bates website" src="images/nigel-bates.png" class="img-responsive"/>
 				</div>
 			</div>
+            
 			<div class="divider"></div>
+
 			<div class="row feature">
 				<div class="col-md-6 info">
 					<h4>Walter H. Everette</h4>
@@ -78,10 +106,12 @@
 					</div>
 				</div>
 				<div class="col-md-6 image">
-					<img alt="Walter Everette website" src="images/walter-everette.png" class="img-responsive" alt="Walter H. Everette" />
+					<img alt="Walter Everette website" src="images/walter-everette.png" class="img-responsive"/>
 				</div>
 			</div>
+
 			<div class="divider"></div>
+
 			<div class="row feature backwards">
 				<div class="col-md-6 info">
 					<h4>WinePhoto co.</h4>
@@ -93,7 +123,7 @@
 					</div>
 				</div>
 				<div class="col-md-6 image">
-					<img alt="WinePhoto co. website" src="images/wine-photo.png" class="img-responsive" alt="Wine Photo" />
+					<img alt="WinePhoto co. website" src="images/wine-photo.png" class="img-responsive"/>
 				</div>
 			</div>
 		</div>		
