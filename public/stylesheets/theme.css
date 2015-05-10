@@ -197,7 +197,7 @@ a:focus, button:focus {
   overflow: hidden;
   background: #4B4848;
   background-size: cover;
-  background-image: url("../images/code.png");
+  background-image: url("../images/code.jpg");
   background-position: center 16%;
   height: 100%;
   position: relative;
@@ -276,7 +276,7 @@ a:focus, button:focus {
     left: 625px;
     width: 570px;
     height: 333px;
-    background-image: url("../../images/static-hero.png");
+    background-image: url("../../images/static-hero.jpg");
     background-repeat: no-repeat; }
     @media (max-width: 991px) {
       #home #hero .img {
@@ -476,7 +476,7 @@ html.bg {
 /* Img Block */
 #home .block-img {
   -webkit-font-smoothing: antialiased;
-  background-image: url(../images/sketch.png);
+  background-image: url(../images/sketch.jpg);
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -507,7 +507,7 @@ html.bg {
 
 /* Tools */
 #tools {
-  background-image: url(../../images/sketch.png);
+  background-image: url(../../images/sketch.jpg);
   background-size: 100%;
 }
 
