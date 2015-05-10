@@ -85,6 +85,7 @@
 					<p>Nigel Bates is a local business owner and musician in the Napa Valley community.</p> 
 					<p>Nigel approached us with a personal project promoting his work as a drummer. We worked with Nigel to create a one page solution with simple functionality for adding tour dates and editing featured songs.
 					</p>
+					<p>Tool Kit: Bootstrap, Ruby on Rails, Active Admin, ect.</p>
 					<div class="visit-button">
 						<a href="http://www.nigelbates.com/" target="_blank"><i class="fa fa-lg fa-play-circle"></i> Visit Website</a>
 					</div>
@@ -101,6 +102,7 @@
 					<h4>Walter H. Everette</h4>
 					<p>Walter H. Everett was one of the most popular and well-regarded American illustrators of the early twentieth-century.</p> 
 					<p>The Everette family commissioned us to co-create a website in honor of Walter's legacy. We sketched the initial prototypes and created the information hierarchy. We used SquareSpace for this project as it allows family members to get involved in this fun process!</p>
+					<p>Tool Kit: SquareSpace</p>
 					<div class="visit-button">
 						<a href="http://www.walterheverett.com/" target="_blank"><i class="fa fa-lg fa-play-circle"></i> Visit Website</a>
 					</div>
