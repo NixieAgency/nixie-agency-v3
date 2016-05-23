@@ -1,15 +1,14 @@
 {{>header}}
 <div id="contact">
-		<div class="container">
-			<div class="row header">
-				<div class="col-md-12">
-					<h2>Contact Us</h2>
-          <p>Nixie was founded by a small group of friends in the heart of Napa Valley. Contact us and meet a local in
-          Napa, Davis, or Oakland.</p>
-          <p>-</p>
-					<p><a href="mailto:ron@nixieagency.com">ron@nixieagency.com</a></p>
-				</div>
-			</div>
+    <div class="container">
+        <div class="row header">
+            <div class="col-md-12">
+                <h2>Contact Us</h2>
+                <p>Nixie was founded by a small group of friends in the heart of Napa Valley. Contact us and meet a local in
+                Napa, Davis, or Oakland.</p>
+                <p><a href="mailto:rongruesbeck@gmail.com">rongruesbeck@gmail.com</a></p>
+            </div>
+        </div>
     </div>
 </div>
 {{>footer}}
